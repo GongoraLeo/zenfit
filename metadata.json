@@ -1,0 +1,5 @@
+{
+  "name": "ZenFit - Diario de Entrenamiento Minimalista",
+  "description": "Una aplicación de diario de gimnasio y running diseñada con una estética minimalista, flat colors y tarjetas interactivas. Permite gestionar sesiones de entrenamiento y carreras mediante un calendario inteligente.",
+  "requestFramePermissions": []
+}
