@@ -91,4 +91,4 @@ Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo, modificarlo
 
 ---
 
-Desarrollado con ❤️ para amantes del deporte y el buen diseño.
+App diseñada y desarrollada por **Leonardo Góngora**.
